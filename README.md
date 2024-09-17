@@ -1,4 +1,4 @@
-# Global SuperStore Sales
+# Global SuperStore Sales 🌍 🛒 📶
 ## Dashboard Preview:
 ![Screenshot 2024-09-16 044615](https://github.com/user-attachments/assets/ddb8b292-82cf-4765-97c0-e5bdf39406a6)
 ## Introduction
